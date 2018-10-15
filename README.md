@@ -1,3 +1,3 @@
 # xcomProject
-fix
-https://youtu.be/o70lGEUWuc4
+최신
+https://youtu.be/3nQ8YjbkC7A
