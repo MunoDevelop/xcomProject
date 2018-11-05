@@ -1,3 +1,3 @@
 # xcomProject
 최신
-https://youtu.be/RqX06-aFkVk
+https://www.youtube.com/watch?v=eRGvjgXb-Oo
