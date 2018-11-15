@@ -26,7 +26,18 @@
 /Xcom/Content/SampleMap
 /Xcom/Content/M5VFXRPG2
 /Xcom/Content/VFX_Toolkit_V1
-
+/Xcom/Content/AdvancedMagicFX12
+/Xcom/Content/AdvancedMagicFX13
+/Xcom/Content/ParagonDekker
+/Xcom/Content/ParagonGadget
+/Xcom/Content/ParagonGRIMexe
+/Xcom/Content/ParagonMurdock
+/Xcom/Content/ParagonSevarog
+/Xcom/Content/ParagonTerra
+/Xcom/Content/ParagonMuriel
+/Xcom/Content/ParagonCrunch
+/Xcom/Content/ParagonCountess
+/Xcom/Content/ParagonAurora
 
 # Visual Studio 2015 user specific files
 .vs/
