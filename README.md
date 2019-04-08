@@ -1,3 +1,3 @@
 # xcomProject
-new update  cooldown item part
-https://youtu.be/I-RYJVWeUL0
+new update mainmenu /  log  part
+https://youtu.be/iF77iwlNcYY
