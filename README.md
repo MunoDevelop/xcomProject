@@ -1,5 +1,4 @@
 # xcomProject
 new update mainmenu /  log  part
-https://youtu.be/kc_y-3WeyIE
 
-https://xlgames.recruiter.co.kr/app/applicant/modifyResume
+https://drive.google.com/open?id=1qWSsuM6Rhnaow6b2z9x5lbFIxMVyNkY2
