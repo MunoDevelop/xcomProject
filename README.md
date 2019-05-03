@@ -1,4 +1,4 @@
 # xcomProject
-new update mainmenu /  log  part
+new update inventory
 
-https://drive.google.com/open?id=1qWSsuM6Rhnaow6b2z9x5lbFIxMVyNkY2
+https://youtu.be/JJdKYwwnHb0
